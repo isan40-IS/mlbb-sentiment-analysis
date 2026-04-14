@@ -1,0 +1,5 @@
+# Mengabaikan file CSV besar di folder dataset
+data_scrap_mlbb/mlbb_reviews_all_1000000.csv
+
+# Mengabaikan semua file CSV jika perlu
+*.csv
